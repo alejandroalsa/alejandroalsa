@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋 soy Alejandro</h1>
 <h3 align="center">Tengo 19 años-😁, fundador de DIWES-📌 y estudiante de de CFGS (ASIR)-💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=llalex-esp&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="llalex-esp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroalsa&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="alejandroalsa" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=llalex-esp&theme=tokyonight"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=alejandroalsa&theme=tokyonight"></img>
 
 <p align="left"> <a href="https://twitter.com/alejandroalsatw" target="blank"><img src="https://img.shields.io/twitter/follow/alejandroalsatw?logo=twitter&style=for-the-badge" alt="alejandroalsatw" /></a> </p>
 
