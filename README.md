@@ -7,6 +7,7 @@
   <a href="https://stackoverflow.com/users/20328189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20328189" height="30" width="40" /></a>
   <a href="https://instagram.com/alex._._.esp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex._._.esp" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/llalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="llalex" height="30" width="40" /></a>
+  <a href="https://dev.to/alejandroalsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alejandroalsa" height="30" width="40" /></a>
 </p>
 
 
