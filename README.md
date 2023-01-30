@@ -10,17 +10,17 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroalsa&show_icons=true&locale=en" alt="alejandroalsa" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroalsa&" alt="alejandroalsa" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroalsa&show_icons=true&locale=en&theme=tokyonight" alt="alejandroalsa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroalsa&theme=tokyonight" alt="alejandroalsa" /></p>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroalsa&show_icons=true&locale=en&layout=compact" alt="alejandroalsa"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroalsa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alejandroalsa"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img  src="https://github-profile-trophy.vercel.app/?username=alejandroalsa" alt="alejandroalsa"/>
+    <img  src="https://github-profile-trophy.vercel.app/?username=alejandroalsa&theme=tokyonight" alt="alejandroalsa"/>
   </a>
 </p>
 
