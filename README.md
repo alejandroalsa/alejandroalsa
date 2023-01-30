@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alejandroalsa&show_icons=true&locale=en&theme=tokyonight" alt="alejandroalsa" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroalsa&theme=tokyonight" alt="alejandroalsa" /></p>
 </p>
@@ -18,22 +18,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroalsa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alejandroalsa"/>
 </p>
 
+<h3 align="center">TROFEOS</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img  src="https://github-profile-trophy.vercel.app/?username=alejandroalsa&theme=tokyonight" alt="alejandroalsa"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=alejandroalsa&theme=onestar" alt="alejandroalsa"/>
   </a>
 </p>
 
 <h3 align="center">TOP REPOS</h3>
 <p align="center">
   <a href="https://github.com/alejandroalsa/alejandroalsa.github.io">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alejandroalsa&repo=alejandroalsa.github.io" alt="alejandroalsa"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alejandroalsa&repo=alejandroalsa.github.io&theme=gruvbox" alt="alejandroalsa"/>
   </a>
   <a href="https://github.com/alejandroalsa/Send-Mail-PHP">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alejandroalsa&repo=Send-Mail-PHP" alt="alejandroalsa"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alejandroalsa&repo=Send-Mail-PHP&theme=gruvbox" alt="alejandroalsa"/>
   </a>
   <a href="https://github.com/alejandroalsa/IAW">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alejandroalsa&repo=IAW" alt="alejandroalsa"/>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=alejandroalsa&repo=IAW&theme=gruvbox" alt="alejandroalsa"/>
   </a>
 </p>
 
