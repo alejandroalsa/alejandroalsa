@@ -1,11 +1,3 @@
----
-title: Alejandro Alfaro Sánchez
-author: Alejandro Alfaro Sánchez
-date: 2023-07-16 12:00:00 +0800
-icon: fas fa-info-circle
-order: 4
----
-
 <div align="center">
   <img src="https://github.com/alejandroalsa/alejandroalsa/assets/67869168/d501083e-0be6-46e0-8da7-ec2e04c8275a" alt="LOGO ALEJANDROALSA">
 </div>
