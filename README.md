@@ -2,11 +2,14 @@
 
 <h1 align="center"><b>ΛLΣJΛПDЯOΛLSΛ</b></h1>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+  <a href="https://x.com/alejandroalsa_x" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 256"><path fill="#0A66C2" d="M218.123 218.127h-37.931v-59.403c0-14.165-.253-32.4-19.728-32.4c-19.756 0-22.779 15.434-22.779 31.369v60.43h-37.93V95.967h36.413v16.694h.51a39.91 39.91 0 0 1 35.928-19.733c38.445 0 45.533 25.288 45.533 58.186zM56.955 79.27c-12.157.002-22.014-9.852-22.016-22.009s9.851-22.014 22.008-22.016c12.157-.003 22.014 9.851 22.016 22.008A22.013 22.013 0 0 1 56.955 79.27m18.966 138.858H37.95V95.967h37.97zM237.033.018H18.89C8.58-.098.125 8.161-.001 18.471v219.053c.122 10.315 8.576 18.582 18.89 18.474h218.144c10.336.128 18.823-8.139 18.966-18.474V18.454c-.147-10.33-8.635-18.588-18.966-18.453"/></svg>
+  </a>
 
-  <a href="https://x.com/alejandroalsa_x" target="blank"><img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDIxbDcuNS03LjVtMy0zTDIxIDNNOCAzSDNsMTMgMThoNVoiLz48L3N2Zz4=" alt="alejandroalsatw" height="30" width="40" /></a>
-
-  <a href="https://linkedin.com/in/alejandro-alfaro-sanchez" target="blank"><img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIi8+PHBhdGggZD0iTTIgOWg0djEySDJabTIwIDEyaC00di03YTIgMiAwIDAgMC00IDB2N2gtNHYtN2E2IDYgMCAwIDEgMTIgMFoiLz48L2c+PC9zdmc+" alt="alejandro-alfaro-sanchez" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alejandro-alfaro-sanchez" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 14 14"><g fill="none"><g clip-path="url(#IconifyId19afaed2a71f6d0cf1)"><path fill="#ffffff" d="M11.025.656h2.147L8.482 6.03L14 13.344H9.68L6.294 8.909l-3.87 4.435H.275l5.016-5.75L0 .657h4.43L7.486 4.71zm-.755 11.4h1.19L3.78 1.877H2.504z"/></g><defs><clipPath id="IconifyId19afaed2a71f6d0cf1"><path fill="#fff" d="M0 0h14v14H0z"/></clipPath></defs></g></svg>
+  </a>
 </p>
 
 <h2 align="center">💻 Tech Stack:</h2>
@@ -87,3 +90,4 @@ document.getElementById('new-meme').addEventListener('click', fetchMeme);
 // Carga inicial
 fetchMeme();
 </script>
+
