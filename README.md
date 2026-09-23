@@ -52,8 +52,12 @@
 
 <h2 align="center">📝 Últimos posts del blog</h2>
 <div align="center">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><a href="https://alejandroalsa.es/posts/java-break-continue/">Java / Básico / Break y Continue</a> · <sub>19/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-array-multidimensional/">Java / Básico / Array Multidimensional &lpar;Matrices&rpar;</a> · <sub>19/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-for/">Java / Básico / Bucle For</a> · <sub>17/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-array/">Java / Básico / Array</a> · <sub>17/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-while/">Java / Básico / Bucle While</a> · <sub>08/09/2026</sub><br>
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
