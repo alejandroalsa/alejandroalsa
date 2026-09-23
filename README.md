@@ -50,9 +50,10 @@
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alejandroalsa&bg_color=1b1b1e&color=ffffff&line=1a5fb4&point=e5a50a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📝 Últimos posts del blog</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alejandroalsa&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
