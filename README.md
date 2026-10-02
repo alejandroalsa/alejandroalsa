@@ -52,11 +52,11 @@
 
 <h2 align="center">📝 Últimos posts del blog</h2>
 <div align="center">
-  <!-- BLOG-POST-LIST:START --><a href="https://alejandroalsa.es/posts/java-break-continue/">Java / Básico / Break y Continue</a> · <sub>19/09/2026</sub><br>
-<a href="https://alejandroalsa.es/posts/java-array-multidimensional/">Java / Básico / Array Multidimensional &lpar;Matrices&rpar;</a> · <sub>19/09/2026</sub><br>
-<a href="https://alejandroalsa.es/posts/java-for/">Java / Básico / Bucle For</a> · <sub>17/09/2026</sub><br>
-<a href="https://alejandroalsa.es/posts/java-array/">Java / Básico / Array</a> · <sub>17/09/2026</sub><br>
-<a href="https://alejandroalsa.es/posts/java-while/">Java / Básico / Bucle While</a> · <sub>08/09/2026</sub><br>
+  <!-- BLOG-POST-LIST:START --><a href="https://alejandroalsa.es/posts/java-polimorfismo/">Java / Clases / Polimorfismo</a> · <sub>30/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-herencia/">Java / Clases / Herencia</a> · <sub>30/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-encapsulacion/">Java / Clases / Encapsulación</a> · <sub>30/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-poo/">Java / Clases / Programación Orientada a Objetos &lpar;POO&rpar;</a> · <sub>22/09/2026</sub><br>
+<a href="https://alejandroalsa.es/posts/java-break-continue/">Java / Básico / Break y Continue</a> · <sub>19/09/2026</sub><br>
 <!-- BLOG-POST-LIST:END -->
 </div>
 
